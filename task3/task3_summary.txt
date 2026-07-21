@@ -1,0 +1,10 @@
+
+Time Series Analysis was performed on the Air Passengers dataset.
+
+Key Findings:
+1. Passenger traffic shows a strong upward trend over time.
+2. A clear seasonal pattern repeats annually.
+3. Moving averages smooth fluctuations and reveal long-term growth.
+
+ARIMA forecasting was used to predict the next 12 months.
+RMSE = 91.23

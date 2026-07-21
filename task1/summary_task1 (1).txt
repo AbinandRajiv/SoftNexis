@@ -1,0 +1,11 @@
+
+Dataset: Spotify History
+
+Cleaning Steps Performed:
+1. Removed 1,782 duplicate records.
+2. Filled 260 missing values in reason_start and reason_end using the mode.
+3. Converted timestamp column to datetime format.
+4. Standardized text columns by removing extra spaces.
+5. Saved the cleaned dataset.
+
+The cleaned dataset is ready for analysis and visualization.

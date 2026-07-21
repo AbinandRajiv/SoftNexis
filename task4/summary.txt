@@ -1,0 +1,13 @@
+
+Exploratory Data Analysis was performed on the Titanic dataset containing 891 passenger records.
+Missing values were identified and handled using median and mode imputation, while cabin values were replaced with 'Unknown'.
+Duplicates were removed and a new feature called FamilySize was created.
+
+Three major findings were obtained from the analysis.
+First, passengers in higher classes had better survival rates than those in lower classes.
+Second, most passengers were between 20 and 40 years old.
+Third, passengers with smaller families generally had a higher probability of survival.
+
+Correlation analysis showed relationships between survival, passenger class and fare.
+Various visualizations such as bar charts, histograms, scatter plots and heatmaps were used to understand the data.
+The cleaned dataset and visualizations provide meaningful insights into factors affecting passenger survival.
